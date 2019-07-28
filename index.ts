@@ -1,1 +1,1 @@
-export * from './src/getMessage'
+export { getMessage } from './src/getMessage'

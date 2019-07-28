@@ -4,3 +4,5 @@ index.ts
 index.ts.map
 src/**/*.ts
 src/**/*.js.map
+test/**/*.ts
+test/**/*.js.map
