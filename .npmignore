@@ -7,8 +7,6 @@ tsconfig.json
 
 node_modules
 
-main.ts
-main.js.map
 src/**/*.ts
 src/**/*.js.map
 test/**/*.ts
