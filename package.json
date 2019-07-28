@@ -2,7 +2,7 @@
     "name": "@jms-1/isxs-tools",
     "version": "1.0.8",
     "description": "Tools set for iSxS development",
-    "main": "main.js",
+    "main": "src/index.js",
     "repository": "git@github.com:JMS-1/isxs-tools.git",
     "author": "Dr. Jochen Manns <vcrnet-1@psimarron.net>",
     "license": "MIT",
