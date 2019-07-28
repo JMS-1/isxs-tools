@@ -6,8 +6,3 @@ publish
 tsconfig.json        
 
 node_modules
-
-src/**/*.ts
-src/**/*.js.map
-test/**/*.ts
-test/**/*.js.map
