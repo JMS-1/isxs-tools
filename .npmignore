@@ -6,3 +6,4 @@ publish
 tsconfig.json        
 
 node_modules
+yarn.lock
