@@ -1,6 +1,6 @@
 {
     "name": "@jms-1/isxs-tools",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "description": "Tools set for iSxS development",
     "main": "main.js",
     "repository": "git@github.com:JMS-1/isxs-tools.git",
