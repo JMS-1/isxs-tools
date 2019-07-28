@@ -1,6 +1,5 @@
 .eslintrc.json       
 .prettierrc.json     
-.stylelintrc.json    
 .vscode
 import-sorter.json   
 publish              
