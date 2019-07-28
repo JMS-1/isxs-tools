@@ -1,3 +1,6 @@
 node_modules
 
-lib/**/*.js.map
+index.ts
+index.ts.map
+src/**/*.ts
+src/**/*.js.map
