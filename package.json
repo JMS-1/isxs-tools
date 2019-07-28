@@ -1,9 +1,27 @@
 {
-  "name": "@jms-1/isxs-tools",
-  "version": "1.0.0",
-  "description": "Tools set for iSxS development",
-  "main": "index.js",
-  "repository": "git@github.com:JMS-1/isxs-tools.git",
-  "author": "Dr. Jochen Manns <vcrnet-1@psimarron.net>",
-  "license": "MIT"
+    "name": "@jms-1/isxs-tools",
+    "version": "1.0.0",
+    "description": "Tools set for iSxS development",
+    "main": "index.js",
+    "repository": "git@github.com:JMS-1/isxs-tools.git",
+    "author": "Dr. Jochen Manns <vcrnet-1@psimarron.net>",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/node": "10.11.7",
+        "@typescript-eslint/eslint-plugin": "1.13.0",
+        "@typescript-eslint/parser": "1.13.0",
+        "del": "5.0.0",
+        "eslint": "5.16.0",
+        "eslint-plugin-import": "2.18.2",
+        "eslint-plugin-prettier": "3.1.0",
+        "eslint-plugin-sort-keys-fix": "1.0.1",
+        "gulp": "3.9.1",
+        "gulp-debug": "4.0.0",
+        "gulp-sass": "4.0.2",
+        "gulp-shell": "0.7.1",
+        "gulp-sourcemaps": "2.6.5",
+        "gulp-typescript": "5.0.1",
+        "prettier": "1.18.2",
+        "typescript": "3.5.3"
+    }
 }

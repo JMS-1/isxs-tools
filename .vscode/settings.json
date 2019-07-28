@@ -1,0 +1,22 @@
+{
+    "[scss]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "css.validate": false,
+    "editor.formatOnSave": true,
+    "eslint.enable": true,
+    "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
+    "grunt.autoDetect": "off",
+    "jake.autoDetect": "off",
+    "less.validate": false,
+    "prettier.eslintIntegration": true,
+    "prettier.stylelintIntegration": true,
+    "stylelint.enable": true,
+    "typescript.tsdk": "node_modules/typescript/lib"
+}
