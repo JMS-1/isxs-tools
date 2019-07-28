@@ -1,7 +1,15 @@
+.eslintrc.json       
+.prettierrc.json     
+.stylelintrc.json    
+.vscode
+import-sorter.json   
+publish              
+tsconfig.json        
+
 node_modules
 
 index.ts
-index.ts.map
+index.js.map
 src/**/*.ts
 src/**/*.js.map
 test/**/*.ts
