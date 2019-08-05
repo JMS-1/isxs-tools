@@ -20,7 +20,7 @@
         "typescript": "3.5.3"
     },
     "license": "MIT",
-    "main": "lib/index.js",
+    "main": "common/index.js",
     "name": "@jms-1/isxs-tools",
     "repository": "git@github.com:JMS-1/isxs-tools.git",
     "scripts": {
